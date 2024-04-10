@@ -1,0 +1,15 @@
+{
+    "name": "classwork",
+    "version": "1.0.0",
+    "description": "Setting up and configuring tsconfig",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "tsc && node ./dist/index.js"
+    },
+    "author": "Mike Welborn",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.4.5"
+    }
+}
